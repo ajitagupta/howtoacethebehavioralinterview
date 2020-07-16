@@ -1,6 +1,6 @@
 # How to Ace the Behavioral Interview
 
-If you haven't found your true calling yet do not worry. Keep trying your luck until you strike a rewarding career. This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You and the company, II) The work, III) Questions. Technical questions might also be asked but we do not address them here.
+If you haven't found your true calling yet do not worry. Keep trying your luck until you strike. You will end up with a rewarding career eventually. Here's some material to get you started in your job hunt. This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You and the company, II) The work, III) Questions. Technical questions might also be asked but we do not address them here.
 
 ## You and the company
 ### 1. Background
