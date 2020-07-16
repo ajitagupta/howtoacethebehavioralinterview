@@ -17,7 +17,7 @@ Another traditional question to ask is what your mid-term and long-term goals ar
 ### 1. Motivation
 Your motivation to work for the company you have applied to must be crisp and clear to you. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
 ### 2. Interests
-Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio to give your interviewers a flavour of your capability and proclivities both.
+Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio and let your interviewers know what you bring to the table.
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language.
 ### 4. Projects
