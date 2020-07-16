@@ -12,7 +12,7 @@ A fair question to ask to get to know more about your work ethics and experience
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to enumerate or elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how those activities relate to your priorities in life.
 ### 5. Future Plans
-Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down their career choice and list the steps needed to get there. Pick a rewarding career!
+Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there.
 ## The company and the work
 ### 1. Motivation
 ### 2. Interests
@@ -26,4 +26,4 @@ Another traditional question to ask is what your mid-term and long-term goals ar
 ### 4. Working Conditions
 
 
-Good luck!
+Wishing you good luck and a rewarding career!
