@@ -24,10 +24,19 @@ If you have to relocate to take up a certain position you should expect a langua
 If not already described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? What are suitable subproblems? Will you receive supervision? Why did they pick you as potential candidate for this job?
 
 ## III) Questions
-### 1. Challenges
-### 2. Language Test
-### 3. Mode of Operation
-### 4. Working Conditions
-
+Most interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Here are some examples:
+### 1. What major challenges does the job entail? 
+Make sure you have prepared your own list of possible options.
+### 2. What is the mode of operation? What is the size of the team?
+Agile, Scrum, Kanban, Lean, etc.
+### 3. What is expected of me? What are my key responsibilities?
+Review meetings, deadlines, mentorship - all these discussions go in here.
+### 4. What tools and technologies are commonly used?
+You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie.
+### 5. What are the working conditions like?
+Work load, working hours, salary, holidays, contract - all these discussions go in here.
+...
+...
+...
 
 Wishing you good luck and a rewarding career!
