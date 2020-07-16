@@ -15,7 +15,7 @@ The human is more than his professional accolades. To get to know you better you
 Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there.
 ## II) The company and the work
 ### 1. Motivation
-Your motivation to work for the company you have applied to must be crisp and clear to you. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
+Your motivation to work for the company you have applied to must be crisp and clear to you. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. The more the better! A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
 ### 2. Interests
 Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio and let your interviewers know what you bring to the table and how will add value to the company.
 ### 3. Language Test
