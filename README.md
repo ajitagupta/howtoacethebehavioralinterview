@@ -4,7 +4,7 @@ If you haven't found your true calling yet do not worry. Here's some material to
 
 ## I) You
 ### 1. Background
-Learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What / where have you worked (on) before? Now let the company representative do the same about him- / herself.
+Learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What / where have you worked (on) before? Present yourself as an energetic and driven individual. Now let the company representative do the same about him- / herself.
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
@@ -17,11 +17,11 @@ Another traditional question to ask is what your mid-term and long-term goals ar
 ### 1. Motivation
 Your motivation to work for the company you have applied to must be crisp and clear to you. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
 ### 2. Interests
-Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio and let your interviewers know what you bring to the table.
+Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio and let your interviewers know what you bring to the table and how will add value to the company.
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language.
 ### 4. Projects
-If not already described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? What are suitable subproblems? Will you receive supervision? Why did they pick you as potential candidate for this job?
+If not already described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job?
 
 ## III) Questions
 Most interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Here are some examples:
