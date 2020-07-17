@@ -20,8 +20,10 @@ Your motivation to work for the company you have applied to must be crisp and cl
 Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio and let your interviewers know what you bring to the table and how will add value to the company.
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language.
-### 4. Projects
-If not already described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job?
+### 4. Project
+If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job?
+### 5. Environment
+You might be very hard working but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the right environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. This is a tricky question. You need to assure your interviewer that given the opportunity you will do your best and excel in your job.
 
 ## III) Questions
 Most interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Here are some examples:
