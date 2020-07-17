@@ -8,16 +8,16 @@ As an introduction, learn to narrate a different version of your CV and career p
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
-A fair question to ask to get to know more about your experience level is to ask about your favourite projects (what challenges you faced, how you overcame them, what you would do differently, etc.).
+A fair question to get to know more about your experience level is to ask about your favorite projects (what challenges you faced, how you overcame them, what you would do differently in hindsight, etc.).
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to enumerate or elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how those activities relate to your priorities in life.
 ### 5. Future Plans
 Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there.
 ## II) The company and the work
 ### 1. Motivation
-Your motivation to work for the company you have applied to must be crisp and clear to you. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. The more the better! A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
+Your motivation to work for the company you have applied to must be crisp and clear to you. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. The more reasons the better! A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
 ### 2. Interests
-Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress. Thus, you will be asked in greater detail about your preferences. Be ready to talk about them and also mention why you applied for that specific position. Share your project portfolio and let your interviewers know what you bring to the table and how will add value to the company.
+Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress or there are other openings which would suit you. Thus, you will be asked in greater detail about your preferences. Share your project portfolio and let your interviewers know what you bring to the table and how you will add value to the company.
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language.
 ### 4. Project
@@ -28,7 +28,7 @@ You might be very hard working but if you end up in a toxic work environment you
 ## III) Questions
 Most interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Here are some examples:
 ### 1. What major challenges does the job entail? 
-Make sure you have prepared your own list of possible options.
+Make sure you have prepared your own list of possible options before.
 ### 2. What is the mode of operation? What is the size of the team?
 Agile, Scrum, Kanban, Lean, etc.
 ### 3. What is expected of me? What are my key responsibilities?
