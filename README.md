@@ -4,11 +4,11 @@ If you haven't found your true calling yet do not worry. Here's some material to
 
 ## I) You
 ### 1. Background
-Learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What / where have you worked (on) before? Present yourself as an energetic and driven individual. Now let the company representative do the same about him- / herself.
+As an introduction, learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What / where have you worked (on) before? Present yourself as an energetic and driven individual. Now let the company representative do the same about him- / herself.
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
-A fair question to ask to get to know more about your work ethics and experience level is to ask about your pet projects (what challenges you faced, how you overcame them, what you would do differently, etc.).
+A fair question to ask to get to know more about your experience level is to ask about your favourite projects (what challenges you faced, how you overcame them, what you would do differently, etc.).
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to enumerate or elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how those activities relate to your priorities in life.
 ### 5. Future Plans
