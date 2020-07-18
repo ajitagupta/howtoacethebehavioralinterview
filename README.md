@@ -23,7 +23,7 @@ If you have to relocate to take up a certain position you should expect a langua
 ### 4. Project
 If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job?
 ### 5. Environment
-You might be very hard working but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the right environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. This is a tricky question. You need to assure your interviewer that given the opportunity you will do your best and excel in your job.
+You might be very hard working but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. This is a tricky question. You need to assure your interviewer that given the right opportunity you will do your best and excel in your job.
 
 ## III) Questions
 Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Here are some examples:
