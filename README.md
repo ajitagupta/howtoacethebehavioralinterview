@@ -8,7 +8,7 @@ As an introduction, learn to narrate a different version of your CV and career p
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
-A fair question to gauge your experience level is to ask about your favorite projects (what challenges you faced, how you overcame them, what you would do differently in hindsight, team size, etc.).
+A fair question to gauge your level of experience is to ask about your favorite projects (team size, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc.).
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to enumerate or elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how those activities relate to your priorities in life.
 ### 5. Future Plans
