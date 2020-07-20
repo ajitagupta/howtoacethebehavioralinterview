@@ -32,7 +32,7 @@ Make sure you have prepared your own list of possible options before.
 ### 2. What is the mode of operation? What is the size of the team?
 Agile, Scrum, Kanban, Lean, etc.
 ### 3. What is expected of me? What are my key responsibilities?
-Average work day, review meetings, deadlines, mentorship - all these discussions go in here.
+Average work day, peer reviews, review meetings, deadlines, mentorship - all these discussions go in here.
 ### 4. What tools and technologies are commonly used?
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie.
 ### 5. What are the working conditions like?
