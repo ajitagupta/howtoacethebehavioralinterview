@@ -19,7 +19,7 @@ Your motivation to work for the company you have applied to must be crisp and cl
 ### 2. Interests
 Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress or there are other openings which would suit you. Thus, you will be asked in greater detail about your preferences. Share your project portfolio and let your interviewers know what you bring to the table and how you will add value to the company.
 ### 3. Language Test
-If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language.
+If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, family obligations, etc.)?
 ### 4. Project
 If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job?
 ### 5. Environment
