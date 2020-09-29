@@ -21,9 +21,12 @@ Sometimes you might not be a good fit for the role you are applying to. However,
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, family obligations, etc.)?
 ### 4. Project
-If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job?
+If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the current product or service the company offers. Do some study on it!
 ### 5. Environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. This is a tricky question. You need to assure your interviewer that given the right opportunity you will do your best and excel in your job.
+### 6. Team
+In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your role in a team? How do you deal with conflicts? Team work helps to progress faster by learning from each other rather than struggling on one's own. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific that holds the team together. Most importantly, conflicts must be dealt with quickly and earnestly, ideally without the intervention of an authority.
+
 
 ## III) Questions
 Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Ask your question and let the conversation evolve from there. Here are some examples:
@@ -37,5 +40,7 @@ Average work day, peer reviews, review meetings, deadlines, mentorship - all the
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie.
 ### 5. What are the working conditions like?
 Work load, working hours, salary, holidays, contract - all these discussions go in here.
+### 6. How is the team structured?
+Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
 
 Wishing you good luck and a rewarding career!
