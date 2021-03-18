@@ -29,7 +29,7 @@ In most jobs team work is crucial. Thus, you will be questioned on this one as f
 
 
 ## III) Questions
-Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity! Ask your question and let the conversation evolve from there. Here are some examples:
+Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask your question and let the conversation evolve from there. Here are some examples:
 ### 1. What major challenges does the job entail? 
 Make sure you have prepared your own list of possible options before.
 ### 2. What is the mode of operation? What is the size of the team?
