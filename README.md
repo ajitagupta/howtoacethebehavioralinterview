@@ -43,4 +43,5 @@ Work load, working hours, salary, holidays, contract - all these discussions go 
 ### 6. How is the team structured?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
 
-Wishing you good luck and a rewarding career!
+If you are interested in becoming a more competent speaker I recommend reading [Steal the Shpw](https://www.amazon.com/-/de/dp/0544800842/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=steal+the+show&qid=1616074132&s=books&sr=1-1). Steal the Show is about how you can use insights from the craft of
+acting to improve all the performances in your life: give better speeches, nail interviews, close deals, have effective conversations and lead teams.
