@@ -8,12 +8,14 @@ As an introduction, learn to narrate a different version of your CV and career p
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
-A fair question to gauge your level of experience is to ask about your favorite projects where you exceeded your own or others expectations. Expect questions on team size, conflicts/resolution, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc.
+A fair question to gauge your level of experience is to ask about your favorite projects where you exceeded your own or others expectations. Expect questions on team size, conflicts/resolution, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc. You also need to talk about a time when you took initiative to change or contribute in an important way.
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to enumerate or elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how those activities relate to your priorities in life. Be able to give examples of extraordinary achievements as well, e.g a leadership role you took up in a student club or a teaching assistantship for course X at your university.
 ### 5. Future Plans
 Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there. Specificity is your best friend. The more concrete and detailed that you are the easier it is to put yourself in the right direction.
 ## II) The company and the work
+### 0. Aptitide Test
+Some companies like to evaluate a person's IQ and EQ. To this end they refer to online tests before the actual in-person interview. Do these sincerely and you will start off on the right foot.
 ### 1. Motivation
 Your motivation to work for the company you have applied to must be crisp and clear to you. As well as why you are planning on leaving your current company. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. The more reasons the better! A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
 ### 2. Interests
