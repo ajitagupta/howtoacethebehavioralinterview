@@ -4,7 +4,7 @@ If you haven't found your true calling yet do not worry. Here's some material to
 
 ## I) You
 ### 1. Background
-As an introduction, learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What were your most important career decisions? Present yourself as an energetic, self-effacing and driven individual. Now let the company representative do the same about him- / herself.
+As an introduction, learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What were your most important career decisions? Present yourself as a self-effacing, conscientious and driven individual. Now let the company representative do the same about him- / herself.
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
