@@ -32,7 +32,7 @@ In most jobs team work is crucial. Thus, you will be questioned on this one as f
 Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask your question and let the conversation evolve from there. Here are some examples:
 ### 1. What major challenges does the job entail? 
 Make sure you have prepared your own list of possible options before.
-### 2. What is the mode of operation? What is the size of the team?
+### 2. What is the mode of operation? What is the size of the team? What are key roles?
 Agile, Scrum, Kanban, Lean, etc.
 ### 3. What is expected of me? What are my key responsibilities?
 Average work day, peer reviews, review meetings, deadlines, mentorship - all these discussions go in here.
@@ -42,6 +42,8 @@ You will get an overview from the job description, but it doesn't hurt to ask ag
 Work load, working hours, salary, holidays, contract - all these discussions go in here.
 ### 6. How is the team structured?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
+### 7. Vision, strategy and culture
+I am sure you are interested in knowing what the core values are, where the company is headed and how the general atmosphere is like.
 
 ## Further reading
 If you want to dive deeper into this topic I recommend reading [Steal the Show](https://www.amazon.com/-/de/dp/0544800842/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=steal+the+show&qid=1616074132&s=books&sr=1-1). Steal the Show gives 50 speaking tips on how you can use insights from the craft of acting to improve all the performances in your life: give better speeches, nail interviews, close deals, have effective conversations and lead teams.
