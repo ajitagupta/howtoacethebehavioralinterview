@@ -12,7 +12,7 @@ A fair question to gauge your level of experience is to ask about your favorite 
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to enumerate or elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how those activities relate to your priorities in life. Be able to give examples of extraordinary achievements as well, e.g a leadership role you took up in a student club or a teaching assistantship for course X at your university.
 ### 5. Future Plans
-Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there.
+Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there. Specificity is your best friend. The more concrete and detailed that you are the easier it is to put yourself in the right direction.
 ## II) The company and the work
 ### 1. Motivation
 Your motivation to work for the company you have applied to must be crisp and clear to you. As well as why you are planning on leaving your current company. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. The more reasons the better! A better pay is not one of them, unless you are in dire need and your circumstances do not allow you an alternative option.
