@@ -15,9 +15,9 @@ The human is more than his professional accolades. To get to know you better you
 Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there. Specificity is your best friend. The more concrete and detailed that you are the easier it is to put yourself in the right direction.
 ## II) The company and the work
 ### 0. Aptitide Test
-Some companies like to evaluate a person's IQ and EQ. To this end they refer to online tests before the actual in-person interview. Do these sincerely and you will start off on the right foot.
-### 1. Investiage your industry
-Your motivation to work for the company you have applied to must be crisp and clear to you. As well as why you are planning on leaving your current company. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. Read books published by experts in the field. Explore problems. Stay updated on current events and social trends.
+Some companies like to evaluate a person's intellect and confidence. To this end they refer to online tests before the actual in-person interview. Do these sincerely and you will start off on the right foot.
+### 1. Investigate your industry
+Your motivation to work for the company you have applied to must be crisp and clear to you. As well as why you are planning on leaving your current company. Sample reasons are career advancement, company services & portfolio, more diversity and higher exposure. Read books published by experts in the field. Explore problems. Stay updated on current events and social trends. Find work that challenges you, pushes your limits and is aligned with your ambitions and priorities.
 ### 2. Interests
 Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress or there are other openings which would suit you. Thus, you will be asked in greater detail about your preferences. Share your project portfolio and let your interviewers know what you bring to the table and how you will add value to the company. 
 ### 3. Language Test
