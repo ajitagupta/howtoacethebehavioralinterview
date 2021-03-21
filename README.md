@@ -33,7 +33,7 @@ Team work helps to progress faster by learning from each other rather than strug
 
 
 ## III) Questions
-Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask your question and let the conversation evolve from there. Here are some examples:
+Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask your question and let the conversation evolve from there.  The questions should demonstrate a passion for your work and, depending on the job, the skills that are necessary to succeed in that role. Here are some examples:
 ### 1. What major challenges does the job entail? 
 Make sure you have prepared your own list of possible options before.
 ### 2. What is the mode of operation? What is the size of the team? What are key roles?
