@@ -25,7 +25,7 @@ If you have to relocate to take up a certain position you should expect a langua
 ### 4. Project
 If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the current product or service the company offers. Do some study on it!
 ### 5. Environment
-You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss (e.g. trustworthy, can listen, inclusive, respectful).
+You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss (e.g. authentic, can listen, is inclusive and respectful).
 ### 6. Team
 In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your role in a team? How do you deal with conflicts?
 
