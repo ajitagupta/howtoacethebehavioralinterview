@@ -29,7 +29,7 @@ You might be the hardest worker but if you end up in a toxic work environment yo
 ### 6. Team
 In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your role in a team? How do you deal with conflicts?
 
-Team work helps to progress faster by learning from each other rather than struggling on one's own. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific that holds the team together. Most importantly, conflicts must be dealt with quickly and earnestly, ideally without the intervention of an authority.
+Team work helps to progress faster by learning from each other rather than struggling on one's own. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific that holds the team together. Sometimes it's even good to be different. It adds diversity to the company.
 
 
 ## III) Questions
