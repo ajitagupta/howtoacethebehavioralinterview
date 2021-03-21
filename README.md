@@ -12,7 +12,7 @@ A fair question to gauge your level of experience is to ask about your favorite 
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how you they make you more productive, creative, lead a healthier lifestyle and expand your horizons. Be able to give examples of extraordinary achievements as well, e.g a leadership role you took up in a student club or a teaching assistantship for course X at your university.
 ### 5. Future Plans
-Another traditional question to ask is what your mid-term and long-term goals are. To answer this question accurately study career paths of people who have what you *want* or have been in your position before. Jot down your career choice and list the steps needed to get there. Specificity is your best friend. The more concrete and detailed that you are the easier it is to put yourself in the right direction.
+Another traditional question to ask is what your mid-term and long-term goals are. The more that you look upon the potential job as an opportunity to perform well and then move ahead, the better he you will do the job from day one. Specificity is your best friend. The more concrete and detailed that you are the easier it is to put yourself in the right direction. 
 ## II) The company and the work
 ### 0. Aptitide Test
 Some companies like to evaluate a person's intellect and confidence. To this end they refer to online tests before the actual in-person interview. Do these sincerely and you will start off on the right foot.
