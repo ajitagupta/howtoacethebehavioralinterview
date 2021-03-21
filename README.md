@@ -12,7 +12,7 @@ A fair question to gauge your level of experience is to ask about your favorite 
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to elaborate on your extracurricular activities. Enthusiastically explain what you do in your free time and how you they make you more productive, creative, lead a healthier lifestyle and expand your horizons. Be able to give examples of extraordinary achievements as well, e.g a leadership role you took up in a student club or a teaching assistantship for course X at your university.
 ### 5. Future Plans
-Another traditional question to ask is what your mid-term and long-term goals are. The more that you look upon the potential job as an opportunity to perform well and then move ahead, the better he you will do the job from day one. Specificity is your best friend. The more concrete and detailed that you are the easier it is to put yourself in the right direction. 
+Another traditional question to ask is what your mid-term and long-term goals are. The more that you look upon the potential job as an opportunity to perform well and then move ahead, the better you will do the job from day one.
 ## II) The company and the work
 ### 0. Aptitide Test
 Some companies like to evaluate a person's intellect and confidence. To this end they refer to online tests before the actual in-person interview. Do these sincerely and you will start off on the right foot.
@@ -27,7 +27,7 @@ If the project has not already been described by the project leader (e.g. throug
 ### 5. Environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss (e.g. authentic, can listen, is inclusive and respectful).
 ### 6. Team
-In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your role in a team? How do you deal with conflicts?
+In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your role in a team?
 
 Team work helps to progress faster by learning from each other rather than struggling on one's own. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific that holds the team together. Sometimes it's even good to be different. It adds diversity to the company.
 
