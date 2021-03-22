@@ -40,8 +40,8 @@ Make sure you have prepared your own list of possible options before.
 Agile, Scrum, Kanban, Lean, etc.
 ### 3. What is expected of me? What are my key responsibilities?
 Average work day, peer reviews, review meetings, deadlines, mentorship - all these discussions go in here.
-### 4. What tools and technologies are commonly used?
-You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie.
+### 4. What tools and technologies are used?
+You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie and that you are willing to learn new things.
 ### 5. What are the working conditions like?
 Work load, working hours, salary, holidays, contract - all these discussions go in here.
 ### 6. How is the team structured? What is the size of the team? What are key roles?
