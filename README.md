@@ -2,7 +2,7 @@
 
 If you haven't found your true calling yet do not worry. Here's some material to get you started in your job hunt. This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
 
-It is arrogant not to do your homework first. You need to show respect in a way that demonstrates understanding for your work and the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns. A professional presentation significantly lowers fear and skepticism and raises trust and credibility. Study proper conduct and dress for the business, organization or individual whom you will be confronting.
+It is arrogant not to do your homework first. You need to show respect in a way that demonstrates understanding for your work and the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns. You must study proper conduct and dress for the business, organization or individual whom you will be confronting. A professional presentation significantly lowers fear and skepticism and raises trust and credibility.
 
 When you take the time to learn about the company's work, purpose and performance, you will bond with them. Your interviewers will enjoy and feel confident working with you in the future. As the adage goes: *"They don’t care how much you know until they know how much you care."*
 
