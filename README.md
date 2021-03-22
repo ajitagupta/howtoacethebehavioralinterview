@@ -2,7 +2,7 @@
 
 If you haven't found your true calling yet do not worry. Here's some material to get you started in your job hunt. This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
 
-Do careful preparation in advance and learn everything you can about the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns. A professional presentation significantly lowers fear and skepticism and raises trust and credibility.
+Do careful preparation in advance and learn everything you can about the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns. A professional presentation significantly lowers fear and skepticism and raises trust and credibility. Study proper conduct and dress for the business, organization of individual whom you will be confronting.
 
 ## I) You
 ### 1. Background
@@ -27,7 +27,7 @@ Sometimes you might not be a good fit for the role you are applying to. However,
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, family obligations, etc.)?
 ### 4. Project
-If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the relevant product or service the company offers. Do some study on it!
+If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the relevant product or service the company offers. The more you can demonstrate genuine interest and knowledge about how the product or service, the more powerful an impact you will have.
 ### 5. Environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss (e.g. authentic, can listen, is inclusive and respectful).
 ### 6. Team
