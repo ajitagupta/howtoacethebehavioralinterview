@@ -8,7 +8,7 @@ As an introduction, learn to narrate a different version of your CV and career p
 
 Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully. You had also better answer fast. Speed matters!
 ### 2. Strengths and Weaknesses
-Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
+Make a list of your strengths and weaknesses (ask friends for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
 A fair question to gauge your level of experience is to ask about your favorite projects where you exceeded your own or others' expectations. Expect questions on team size, conflicts/resolution, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc. You also need to talk about a time when you took initiative to change or contribute in an important way.
 ### 4. Hobbies
