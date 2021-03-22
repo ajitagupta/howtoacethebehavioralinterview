@@ -4,7 +4,7 @@ If you haven't found your true calling yet do not worry. Here's some material to
 
 It is arrogant not to do your homework first. You need to show respect in a way that demonstrates understanding for your work and the company. Do careful preparation in advance and learn everything you can about the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns. A professional presentation significantly lowers fear and skepticism and raises trust and credibility. Study proper conduct and dress for the business, organization or individual whom you will be confronting.
 
-When you take the time to learn about the company's vision, purpose, portfolio and performance, you will bond with them. Your interviewers will enjoy being with you and feel confident working with you in the future.
+When you take the time to learn about the company's work, purpose and performance, you will bond with them. Your interviewers will enjoy and feel confident working with you in the future.
 
 ## I) You
 ### 1. Background
