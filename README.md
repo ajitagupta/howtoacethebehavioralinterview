@@ -2,7 +2,7 @@
 
 If you haven't found your true calling yet do not worry. Here's some material to get you started in your job hunt. This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
 
-Do careful preparation in advance and learn everything you can about the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns.
+Do careful preparation in advance and learn everything you can about the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns. A professional presentation significantly lowers fear and skepticism and raises trust and credibility.
 
 ## I) You
 ### 1. Background
