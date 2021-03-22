@@ -2,6 +2,8 @@
 
 If you haven't found your true calling yet do not worry. Here's some material to get you started in your job hunt. This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
 
+Do careful preparation in advance and learn everything you can about the company. You must plan your presentation thoroughly, in every detail. You must make your presentation smooth and fluent, answering each of the interviewer's questions or concerns.
+
 ## I) You
 ### 1. Background
 As an introduction, learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What were your most important career decisions? Present yourself as a self-effacing, intelligent, hard-working, conscientious and driven person whom the team can trust and who fits into company culture. Now let the company representative do the same about him- / herself.
