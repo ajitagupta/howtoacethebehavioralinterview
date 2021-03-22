@@ -43,7 +43,7 @@ Almost all interviews end with a round of questions where the candidate gets the
 ### 1. What major challenges does the job entail? 
 Make sure you have prepared your own list of possible options before.
 ### 2. What is the mode of operation? [for software and test engineers]
-Agile, Scrum, Kanban, Lean, etc.
+Scrum, Kanban, SAFe, etc.
 ### 3. What is expected of me? What are my key responsibilities?
 Average work day, peer reviews, feedback meetings, deadlines, mentorship - all these discussions go in here.
 ### 4. What tools and technologies are used?
