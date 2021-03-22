@@ -45,7 +45,7 @@ Make sure you have prepared your own list of possible options before.
 ### 2. What is the mode of operation? [for software and test engineers]
 Agile, Scrum, Kanban, Lean, etc.
 ### 3. What is expected of me? What are my key responsibilities?
-Average work day, peer reviews, review meetings, deadlines, mentorship - all these discussions go in here.
+Average work day, peer reviews, feedback meetings, deadlines, mentorship - all these discussions go in here.
 ### 4. What tools and technologies are used?
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie and that you are willing to learn new things. Also: Do you have any special skills?
 ### 5. What are the working conditions like?
