@@ -45,7 +45,7 @@ Average work day, peer reviews, review meetings, deadlines, mentorship - all the
 ### 4. What tools and technologies are used?
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie and that you are willing to learn new things. Also: Do you have any special skills?
 ### 5. What are the working conditions like?
-Work load, working hours, salary, holidays, contract - all these discussions go in here.
+Work load, working hours, salary, holidays, contract (temporary, permanent, contractual) - all these discussions go in here.
 ### 6. How is the team structured? What is the size of the team? What are key roles?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
 ### 7. Vision, strategy and culture
