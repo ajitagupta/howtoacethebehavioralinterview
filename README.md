@@ -25,7 +25,7 @@ Read books published by experts in the field. Explore problems. Stay updated on 
 ### 2. Interests
 Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress or there are other openings which would suit you. Thus, you will be asked in greater detail about your preferences. Share your project portfolio and let your interviewers know what you bring to the table and how you will add value to your coworkers and customers. 
 ### 3. Language Test
-If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, family obligations, etc.)?
+If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, career growth, family, etc.)?
 ### 4. Project
 If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the relevant product or service the company offers. The more you can demonstrate genuine interest about how the product or service works, the more powerful an impact you will have.
 ### 5. Environment
