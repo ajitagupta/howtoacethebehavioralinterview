@@ -36,7 +36,7 @@ Team work helps to progress faster by learning from each other rather than strug
 Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask your question and let the conversation evolve from there.  The questions should demonstrate a passion for your work and, depending on the job, the skills that are necessary to succeed in that role. Here are some examples:
 ### 1. What major challenges does the job entail? 
 Make sure you have prepared your own list of possible options before.
-### 2. What is the mode of operation? What is the size of the team? What are key roles?
+### 2. What is the mode of operation?
 Agile, Scrum, Kanban, Lean, etc.
 ### 3. What is expected of me? What are my key responsibilities?
 Average work day, peer reviews, review meetings, deadlines, mentorship - all these discussions go in here.
@@ -44,7 +44,7 @@ Average work day, peer reviews, review meetings, deadlines, mentorship - all the
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie.
 ### 5. What are the working conditions like?
 Work load, working hours, salary, holidays, contract - all these discussions go in here.
-### 6. How is the team structured?
+### 6. How is the team structured? What is the size of the team? What are key roles?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
 ### 7. Vision, strategy and culture
 I am sure you are interested in knowing what the core values are, where the company is headed and how the general atmosphere is like. Be eager to find out!
