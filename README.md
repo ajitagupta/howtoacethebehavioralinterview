@@ -10,7 +10,7 @@ When you take the time to learn about the company's work, purpose and performanc
 ### 1. Background
 As an introduction, learn to narrate a different version of your CV and career path. Who are you? Where / what did you study and why? What were your most important career decisions? Present yourself as a self-effacing, intelligent, hard-working, conscientious and driven person whom the team can trust and who fits into company culture. Now let the company representative do the same about him- / herself.
 
-Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully, in everything you do. You had better amswer fast. Speed matters!
+Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully, in everything you do. You had better answer fast. Speed matters!
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses (ask others for help). Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives.
 ### 3. Exceptional Achievements
