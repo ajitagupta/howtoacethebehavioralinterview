@@ -27,9 +27,9 @@ If the project has not already been described by the project leader (e.g. throug
 ### 5. Environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss (e.g. authentic, can listen, is inclusive and respectful).
 ### 6. Team
-In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your role in a team?
+In most jobs team work is crucial. Thus, you will be questioned on this one as follows: How important is team work for you? What is your favourite role in a team?
 
-Team work helps to progress faster by learning from each other rather than struggling on one's own. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific that holds the team together. Sometimes it's even good to be different. It adds diversity to the company.
+Team work helps to progress faster and reduce errors by learning from each other and double-checking the other's work. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific that holds the team together. Sometimes it's even good to be different. It adds diversity to the company.
 
 
 ## III) Questions
