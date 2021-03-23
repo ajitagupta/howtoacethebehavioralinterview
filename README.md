@@ -4,7 +4,7 @@ This post contains a collection of general questions that are likely to come up 
 
 ## I) You
 ### 1. Background
-As an introduction, learn to narrate a different version of your CV and career path. Who are you? What did you study and why? What were your most important career decisions? Present yourself as a self-effacing, intelligent, hard-working, conscientious and driven person whom the team can trust and who fits into company culture. Now let the company representative do the same about him- / herself.
+As an introduction, learn to narrate a different version of your CV and career path. Where do you come from? What did you study and why? What were your most important career decisions? Present yourself as a self-effacing, intelligent, hard-working, conscientious and driven person whom the team can trust and who fits into company culture. Now let the company representative do the same about him- / herself.
 
 Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully. You had also better answer fast. Speed matters!
 ### 2. Strengths and Weaknesses
