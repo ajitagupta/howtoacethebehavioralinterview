@@ -1,6 +1,6 @@
 # How to Ace the Behavioral Interview
 
-This post contains a collection of general questions that are likely to come up during interviews and how you can use them to your advantage. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
+This post contains a collection of general questions that are likely to come up during interviews and how you can use them in your advantage to shine and show what you are capable of. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
 
 ## I) You
 ### 1. Background
