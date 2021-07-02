@@ -1,6 +1,6 @@
 # How to Ace the Behavioral Interview
 
-Interviews are tough. Sometimes they even seem unsurmountable and hard to prepare for. But we all have to go through them. So here we are! This post contains a collection of general questions that are likely to come up during interviews. With the right mindset, balance and a dash of calmness you can use your in your advantage, shine and show what you are capable of. It is divided into three sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
+Interviews are tough. Sometimes they even seem unsurmountable and hard to prepare for. But we all have to go through them. So here we are! This post contains a collection of general questions that are likely to come up during interviews. With the right approach, balance and a dash of calmness you can use the interview process in your advantage, shine and show what you are capable of. This post is divided into three major sections: I) You, II) The company and the work, III) Questions. Technical questions might also be asked but we do not address them here.
 
 ## I) You
 ### 1. Background
