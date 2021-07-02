@@ -17,7 +17,7 @@ Your goal should be to lead an ongoing conversation with your interviewers. Fram
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses. Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives. Ask others how they perceive you as a coworker, friend or companion.
 ### 3. Exceptional Achievements
-A fair question to gauge your level of experience is to ask about your favorite projects where you exceeded your own or others' expectations. Expect questions on team size, conflicts/resolution, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc.
+A fair question is to ask about your favorite projects where you exceeded your own or others' expectations. Have you won awards or scholarships? Expect questions on team size, conflicts and resolution, what challenges you faced, how you overcame them, how you have grown, etc.
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to elaborate on your extracurricular activities. What keeps you busy outside of work? Do you run marathons? Are you a hobby chef? Enthusiastically explain what you do in your free time and that those activities make you more productive, creative, lead a healthier lifestyle and expand your horizons. Be able to give examples of extraordinary achievements as well, e.g a leadership role you took up in a student club or a teaching assistantship for course X at your university.
 ### 5. Future Plans
@@ -50,7 +50,7 @@ Your job must suit your skills. It must interest you. But it must also challenge
 ### 2. What is the mode of operation? [for software and test engineers]
 Scrum, Kanban, SAFe, etc.
 ### 3. How is data collected and processed? [for data scientists and data analysts and data engineers]
-Databases, Cloud, Apache Kafka, ETL, distributed computing, embedded systems, etc.
+Databases, Cloud, Apache Kafka, ETL, distributed computing, etc.
 ### 4. What are my key responsibilities?
 Average work day, peer reviews, feedback meetings, deadlines, mentorship - all these discussions go in here.
 ### 5. What tools and technologies are used?
