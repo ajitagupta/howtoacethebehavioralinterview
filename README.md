@@ -4,7 +4,13 @@ Interviews are tough. Sometimes they even seem unsurmountable and hard to prepar
 
 ## I) You
 ### 1. Background
-As an introduction, learn to narrate a different version of your CV and career path. Where do you come from? What did you study and why? What were your most important career decisions? Mentioned low lights and highlights at each stage of your career. Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and the role you applied for.
+As an introduction, learn to narrate a different version of your CV and career path.
+- Where do you come from?
+- What motivated you to study course Y?
+- What were your most important career decisions?
+- What do you do in your free time?
+- What is your level of proficiency in technology T, programming language L and consulting for industry I?
+Mention low lights and highlights at each stage of your career. Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and the role you applied for.
 
 Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully. You had also better answer fast. Speed matters!
 ### 2. Strengths and Weaknesses
@@ -42,16 +48,20 @@ Almost all interviews end with a round of questions where the candidate gets the
 Your job must suit your skills. It must interest you. But it must also challenge you! Clarify what the key challenges for a newcomer are.
 ### 2. What is the mode of operation? [for software and test engineers]
 Scrum, Kanban, SAFe, etc.
-### 3. What are my key responsibilities?
+### 3. How is data collected and processed? [for data scientists and data analysts and data engineers]
+Databases, Cloud, Apache Kafka, ETL, distributed computing, embedded systems, etc.
+### 4. What are my key responsibilities?
 Average work day, peer reviews, feedback meetings, deadlines, mentorship - all these discussions go in here.
-### 4. What tools and technologies are used?
+### 5. What tools and technologies are used?
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie and that you are willing to learn new things. Also: Do you have any special skills?
-### 5. What are the working conditions like?
+### 6. What are the working conditions like?
 Work load, working hours, salary, holidays, contract (temporary, permanent, contractual) - all these discussions go in here.
-### 6. How is the team structured? What are key roles?
+### 7. How is the team structured? What are key roles?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
-### 7. Vision and culture
+### 8. Vision and culture
 I am sure you would like to know where the company is headed, what the core values are and how the general atmosphere is like. Be eager to find out!
+### 9. Continuing education
+Ask about your options to grow professionally. Most companies provide with internal opportunities for advancing your skillset, e.g. in the form of workshops or free days or even free access to e-learning platforms. This question demonstrates your earnest interest in growing and evolving in the same company. Companies usually want their employees to stay after having invested heavily into hiring and mentorship.
 
 ## Further reading
 If you want to dive deeper into this topic I recommend reading [Steal the Show](https://www.amazon.com/-/de/dp/0544800842/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=steal+the+show&qid=1616074132&s=books&sr=1-1). Steal the Show gives 50 speaking tips on how you can use insights from the craft of acting to improve all the performances in your life: give better speeches, nail interviews, close deals, have effective conversations and lead teams.
