@@ -50,7 +50,7 @@ Your job must suit your skills. It must interest you. But it must also challenge
 ### 2. What is the mode of operation? [for software and test engineers]
 Scrum, Kanban, SAFe, etc.
 ### 3. How is data collected and processed? [for data scientists and data analysts and data engineers]
-Databases, Cloud, Apache Kafka, ETL, distributed computing, etc.
+Databases, Cloud, Apache Kafka, ETL, distributed computing, Python etc.
 ### 4. What are my key responsibilities?
 Average work day, peer reviews, feedback meetings, deadlines, mentorship - all these discussions go in here.
 ### 5. What tools and technologies are used?
