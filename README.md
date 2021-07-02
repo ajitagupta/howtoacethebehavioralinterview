@@ -8,9 +8,10 @@ As an introduction, learn to narrate a different version of your CV and career p
 - Where do you come from?
 - What motivated you to study course Y?
 - What were your most important career decisions?
+- What is your level of proficiency in technology T, programming language L and consulting for industry I? Do you have any certifications?
 - What do you do in your free time?
-- What is your level of proficiency in technology T, programming language L and consulting for industry I?
-Mention low lights and highlights at each stage of your career. Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and the role you applied for.
+
+Mention low lights and highlights at each stage of your career. Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and tell you a bit about the role you applied for.
 
 Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully. You had also better answer fast. Speed matters!
 ### 2. Strengths and Weaknesses
