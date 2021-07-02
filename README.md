@@ -39,7 +39,7 @@ Team work helps to progress faster and reduce errors by learning from each other
 ## III) Questions
 Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask lots of questions. Listen intently. The questions should demonstrate a passion for your work and, depending on the job, the skills that are necessary to succeed in that role. Here are some examples:
 ### 1. What major challenges does the job entail? 
-Make sure you have prepared your own list of possible options before.
+Your job must suit your skills. It must interest you. But it must also challenge you! Clarify what the key challenges for a newcomer are.
 ### 2. What is the mode of operation? [for software and test engineers]
 Scrum, Kanban, SAFe, etc.
 ### 3. What is expected of me? What are my key responsibilities?
@@ -51,7 +51,7 @@ Work load, working hours, salary, holidays, contract (temporary, permanent, cont
 ### 6. How is the team structured? What is the size of the team? What are key roles?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
 ### 7. Vision and culture
-I am sure you are interested in knowing where the company is headed, what the core values are and how the general atmosphere is like. Be eager to find out!
+I am sure you would like to know where the company is headed, what the core values are and how the general atmosphere is like. Be eager to find out!
 
 ## Further reading
 If you want to dive deeper into this topic I recommend reading [Steal the Show](https://www.amazon.com/-/de/dp/0544800842/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=steal+the+show&qid=1616074132&s=books&sr=1-1). Steal the Show gives 50 speaking tips on how you can use insights from the craft of acting to improve all the performances in your life: give better speeches, nail interviews, close deals, have effective conversations and lead teams.
