@@ -26,16 +26,16 @@ Another traditional question is regarding your mid-term and long-term goals. Whe
 ### 0. Aptitide Test
 Some companies like to evaluate a person's intellect and confidence. To this end they refer to online quantitative or language tests. Sometimes they also analyze your overall personality, traits and preferences. Do these tests sincerely and you will start off on the right foot in the actual in-person interview.
 ### 1. Investigate your industry
-Your motivation to work for the company you have applied to must be crisp and clear. You should also have a convincing reason on why you are planning on leaving your current company. Sample reasons are career progression, career change, attractive company portfolio and higher exposure.
+Your motivation to work for the company you have applied to must be crisp and clear. You should also have a convincing reason on why you are planning on leaving your current company. Sample reasons are career progression, career change, personal development, attractive company portfolio and higher exposure.
 
 Read books published by experts in the field. Explore problems. Stay updated on current events and social trends. Find work that challenges you, pushes your limits and is aligned with your ambitions and priorities.
-### 2. Interests
+### 2. Build a Portfolio
 Sometimes you might not be a good fit for the role you are applying to. However, you still get interviewed because your profile managed to impress or there are other openings which would suit you. Thus, you will be asked in greater detail about your interests. Share your project portfolio and let your interviewers know what you bring to the table and how you will add value to your coworkers and customers. 
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, career growth, family, etc.)? These tests are aimed at confirming that you have basic working knowledge.
 ### 4. Project
 If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the relevant product or service the company offers. The more you can demonstrate genuine interest about how the product or service works, the more powerful an impression you will make.
-### 5. Environment
+### 5. Work environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. Here, you could say he should be authentic, listen, be inclusive and respectful towards all team members. This brings us to the next point.
 ### 6. Team
 In most jobs team work is crucial. Thus, you could be questioned on this one as follows: How important is team work for you? What is your favourite role in a team? What do you look for in a colleague?
