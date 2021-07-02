@@ -1,6 +1,6 @@
 # How to Ace the Behavioral Interview
 
-Interviews are tough. Sometimes they even seem unsurmountable and hard to prepare for. But we all have to go through them. So here we are! This post contains a collection of general questions that are likely to come up during interviews. With the right approach, balance and a dash of calmness you can use the interview process in your advantage, shine and show what you are capable of. This post is divided into three major sections: I) You, II) The company and the work, III) Questions. Technical questions typically also asked but we do not address them here.
+Interviews are tough. Sometimes they even seem unsurmountable and hard to prepare for. But we all have to go through them. So here we are! This post contains a collection of general questions that are likely to come up during interviews. With the right approach, balance and a dash of calmness you can use the interview process in your advantage, shine and show what you are capable of. This post is divided into three major sections: I) You, II) The company and the work, III) Questions. Technical questions are typically also asked but we do not address them here.
 
 ## I) You
 ### 1. Background
@@ -10,7 +10,7 @@ Your goal should be to lead an ongoing conversation with your interviewers. Fram
 ### 2. Strengths and Weaknesses
 Make a list of your strengths and weaknesses. Think about examples of how and where your strengths have helped you do well. Next, jot down areas for improvement. Describe yourself with 3-4 adjectives. Ask others how they perceive you as a coworker, friend or companion.
 ### 3. Exceptional Achievements
-A fair question to gauge your level of experience is to ask about your favorite projects where you exceeded your own or others' expectations. Expect questions on team size, conflicts/resolution, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc. You might also need to talk about a time when you took initiative to change or contribute in a meaningful way.
+A fair question to gauge your level of experience is to ask about your favorite projects where you exceeded your own or others' expectations. Expect questions on team size, conflicts/resolution, what challenges you faced, how you overcame them, what you would do differently in hindsight, etc.
 ### 4. Hobbies
 The human is more than his professional accolades. To get to know you better you might be asked to elaborate on your extracurricular activities. What keeps you busy outside of work? Do you run marathons? Are you a hobby chef? Enthusiastically explain what you do in your free time and that those activities make you more productive, creative, lead a healthier lifestyle and expand your horizons. Be able to give examples of extraordinary achievements as well, e.g a leadership role you took up in a student club or a teaching assistantship for course X at your university.
 ### 5. Future Plans
@@ -27,7 +27,7 @@ Sometimes you might not be a good fit for the role you are applying to. However,
 ### 3. Language Test
 If you have to relocate to take up a certain position you should expect a language test. This refers to answering a number of questions in the respective language. Also: Why do you want to relocate (not enough jobs in your area, great offer, career growth, family, etc.)? These tests are aimed at confirming that you have basic working knowledge.
 ### 4. Project
-If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the relevant product or service the company offers. The more you can demonstrate genuine interest about how the product or service works, the more powerful an impact you will have.
+If the project has not already been described by the project leader (e.g. through a Powerpoint presentation) drill him with questions: Which problem would you work on (if offer is accepted)? Will you receive supervision? Why did they pick you as potential candidate for this job? Also be prepared for the question on how *you* would improve the relevant product or service the company offers. The more you can demonstrate genuine interest about how the product or service works, the more powerful an impression you will make.
 ### 5. Environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. Here, you could say he should be authentic, listen, be inclusive and respectful towards all team members. This brings us to the next point.
 ### 6. Team
@@ -42,13 +42,13 @@ Almost all interviews end with a round of questions where the candidate gets the
 Your job must suit your skills. It must interest you. But it must also challenge you! Clarify what the key challenges for a newcomer are.
 ### 2. What is the mode of operation? [for software and test engineers]
 Scrum, Kanban, SAFe, etc.
-### 3. What is expected of me? What are my key responsibilities?
+### 3. What are my key responsibilities?
 Average work day, peer reviews, feedback meetings, deadlines, mentorship - all these discussions go in here.
 ### 4. What tools and technologies are used?
 You will get an overview from the job description, but it doesn't hurt to ask again and make clear where your core competencies lie and that you are willing to learn new things. Also: Do you have any special skills?
 ### 5. What are the working conditions like?
 Work load, working hours, salary, holidays, contract (temporary, permanent, contractual) - all these discussions go in here.
-### 6. How is the team structured? What is the size of the team? What are key roles?
+### 6. How is the team structured? What are key roles?
 Find out how many and what sorts of people you will be working with. It's also good to know your team lead, but most probably that's going to be one of your interviewers.
 ### 7. Vision and culture
 I am sure you would like to know where the company is headed, what the core values are and how the general atmosphere is like. Be eager to find out!
