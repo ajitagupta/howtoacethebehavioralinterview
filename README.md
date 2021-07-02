@@ -17,7 +17,7 @@ The human is more than his professional accolades. To get to know you better you
 Another traditional question is regarding your mid-term and long-term goals. Where do you see yourself five years down the line? The more that you look upon the potential job as an opportunity to perform well and then move ahead, the better you will do the job from day one.
 ## II) The company and the work
 ### 0. Aptitide Test
-Some companies like to evaluate a person's intellect and confidence. To this end they refer to online quantitative or language tests before the actual in-person interview. Sometimes they also analyze your overall personality, habits and preferences. Do these sincerely and you will start off on the right foot.
+Some companies like to evaluate a person's intellect and confidence. To this end they refer to online quantitative or language tests. Sometimes they also analyze your overall personality, traits and preferences. Do these tests sincerely and you will start off on the right foot in the actual in-person interview.
 ### 1. Investigate your industry
 Your motivation to work for the company you have applied to must be crisp and clear. You should also have a convincing reason on why you are planning on leaving your current company. Sample reasons are career progression, career change, attractive company portfolio and higher exposure.
 
@@ -31,13 +31,13 @@ If the project has not already been described by the project leader (e.g. throug
 ### 5. Environment
 You might be the hardest worker but if you end up in a toxic work environment you won't achieve anything but attrition. As for the employer, he won't get any benefit from hiring you if he doesn't provide you with the environment you need to thrive. Thus, a common question asked during interviews is how your ideal environment looks like and what your expectations are from your future leader and boss. Here, you could say he should be authentic, listen, be inclusive and respectful towards all team members. This brings us to the next point.
 ### 6. Team
-In most jobs team work is crucial. Thus, you could be questioned on this one as follows: How important is team work for you? What is your favourite role in a team? What do you look for in a colleague? How well do you gel with your peer group?
+In most jobs team work is crucial. Thus, you could be questioned on this one as follows: How important is team work for you? What is your favourite role in a team? What do you look for in a colleague?
 
 Team work helps to progress faster and reduce errors by learning from each other and double-checking each other's work. It also gives you a break from your isolation. Mostly, people do enjoy taking up a certain role / are good at something specific. Sometimes it's even good to be different. It adds diversity to the company.
 
 
 ## III) Questions
-Almost all interviews end with a round of questions where the candidate gets the chance to clarify doubts and ask further questions. Avail the opportunity to finish strong! Ask lots of questions. Listen intently. The questions should demonstrate a passion for your work and, depending on the job, the skills that are necessary to succeed in that role. Here are some examples:
+Almost all interviews end with a round of questions where the candidate gets the chance to ask further questions. Avail the opportunity and finish strong! Ask lots of questions. Listen intently. The questions should demonstrate a passion for your work and, depending on the job, the skills that are necessary to succeed in that role. Here are some examples:
 ### 1. What major challenges does the job entail? 
 Your job must suit your skills. It must interest you. But it must also challenge you! Clarify what the key challenges for a newcomer are.
 ### 2. What is the mode of operation? [for software and test engineers]
