@@ -5,9 +5,9 @@ Interviews are tough. Sometimes they even seem unsurmountable and hard to prepar
 ## I) You
 ### 1. Background
 As an introduction, learn to narrate a different version of your CV and career path.
-- Where do you come from?
-- What motivated you to study course Y?
-- What were your most important career decisions?
+- Where do you come from? Talk about your country of origin, current residence, educational background and how you are different.
+- What motivated you to study course Y? E.g. peer group, opportunities, interest, role model.
+- What were your most important career decisions? E.g. Postgraduation, first job, first client, entrepreneurship, Ph.D., MBA.
 - What is your level of proficiency in technology T, programming language L and consulting for industry I? Do you have any relevant certifications?
 - What do you do in your free time?
 
