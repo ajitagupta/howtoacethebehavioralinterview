@@ -21,7 +21,7 @@ Example:
 > I am fluent in 3 languages and can program in any object-oriented language. I have also obtained several certifications by Oracle, Coursera and LinkedIn in the tech space.
 > I particularly enjoy running, hiking and occasional travel trips to explore new countries and cultures.
  
-Mention low lights and highlights at each stage of your career. Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and tell you a bit about the role you applied for.
+Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and tell you a bit about the role you applied for.
 
 Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully. You had also better answer fast. Speed matters!
 ### 2. Strengths and Weaknesses
