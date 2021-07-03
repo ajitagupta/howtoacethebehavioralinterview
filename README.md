@@ -13,9 +13,14 @@ As an introduction, learn to narrate a different version of your CV and career p
 
 Example:
 > My name is Ajita Gupta. I am originally from India, but I have grown up in Zurich and have been living in Switzerland for 22 years. I did my Matura at Kantonsschule Oerlikon
-> in Mathematics and Physics. I studied at ETH Zurich, since I was mathematically inclined and I enjoyed solving puzzles and computational problems. Switzerland is a very nice
-> place to live in and studying here was a great decision due to the proximity to my family and friends.
-
+> in Mathematics and Physics. After that I studied at ETH Zurich, since I was mathematically inclined and I enjoyed solving puzzles and computational problems. ETH is known as
+> Einstein's university and studying here was a great decision due to its reputation and the proximity to my family and friends.
+> I have worked in many different international work environments before and I have constantly strived to take decisions such that I can add more diversity to my skillset. For
+> instance I interned at the MS labs in Bangalore, where I experienced a new work culture and worked at the intersection of academic and industrial research, which is a niche
+> and rare combination to find in the job market.
+> I am fluent in 3 languages and can program in any object-oriented language. I have also obtained several certifications by Oracle, Coursera and LinkedIn in the tech space.
+> I particularly enjoy running, hiking and occasional travel trips to explore new countries and cultures.
+ 
 Mention low lights and highlights at each stage of your career. Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and tell you a bit about the role you applied for.
 
 Your goal should be to lead an ongoing conversation with your interviewers. Frame your answers carefully and purposefully. You had also better answer fast. Speed matters!
