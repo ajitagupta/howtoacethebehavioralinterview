@@ -5,11 +5,15 @@ Interviews are tough. Sometimes they even seem unsurmountable and hard to prepar
 ## I) You
 ### 1. Background
 As an introduction, learn to narrate a different version of your CV and career path.
-- Where do you come from? Talk about your country of origin, current residence, educational background and how you are different.
-- What motivated you to study course Y? E.g. peer group, opportunities, interest, role model.
-- What were your most important career decisions? E.g. Postgraduation, first job, first client, entrepreneurship, Ph.D., MBA.
+- Where do you come from?
+- What motivated you to study course Y?
+- What were your most important career decisions?
 - What is your level of proficiency in technology T, programming language L and consulting for industry I? Do you have any relevant certifications? Don't sell yourself short here. Describe your area of excellence.
 - What do you do in your free time?
+
+Example:
+> My name is Ajita Gupta. I am originally from India, but I have grown up in Zurich and have been living in Switzerland for 22 years. I did my Matura at Kantonsschule Oerlikon in Mathematics and Physics.
+>M
 
 Mention low lights and highlights at each stage of your career.  Present yourself as a self-effacing, intelligent, hard-working, solid, confident and driven person whom the team can trust and who fits into company culture. Now let the company representative(s) do the same about him- / herself and tell you a bit about the role you applied for.
 
